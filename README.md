@@ -12,6 +12,7 @@ Previously, I earned my Bachelor's degree in Computer, Electronic, and Telecommu
 </p>
 
 <h2>👨‍💻 Experience</h2>
+
 | Position                      | Company           | Duration                  | Responsibilities |
 |-------------------------------|-------------------|---------------------------|------------------|
 | **Research Engineer Intern**  | Alten Labs        | Fall 2023 – Winter 2024   | Conducted a systematic review of existing literature on Personal Information Management Systems.<br>Designed and implemented an architecture of an interoperable and GDPR-compliant software agent for managing both Personally Identifiable and Non-Personally Identifiable Information.<br>Developed an Interoperability Evaluation Framework for Personal Data Stores and Self-Sovereign Identity Solutions.<br>Authored my Master's thesis titled "Universal Personal Privacy Agent: Toward Interoperability Between Self-Sovereign Identity and Personal Data Stores."<br>Delivered two scientific seminars on these topics, enhancing communication skills with coworkers and stakeholders. |
