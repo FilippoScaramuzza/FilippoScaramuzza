@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my GitHub page. Here you can find some projects I worked on. They're mostly well documented, but if you have any comment or question just raise an issue or send me an e-mail. 
-Below is some info about me. 
+Below is some info about me. If you want to know more about me, check my website at <a href="https://filipposcaramuzza.dev">filipposcaramuzza.dev</a> or my <a href="https://filipposcaramuzza.dev">filipposcaramuzza.dev/cv</a> at 
 
 <h2>📚 Studies</h2>
 <p style="text-align: justify;">
